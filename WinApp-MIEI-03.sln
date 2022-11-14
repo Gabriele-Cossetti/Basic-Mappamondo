@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinApp-MIEI-03", "WinApp-MIEI-03\WinApp-MIEI-03.vbproj", "{88C22439-4447-4188-8C58-8487F4585C9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88C22439-4447-4188-8C58-8487F4585C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C22439-4447-4188-8C58-8487F4585C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C22439-4447-4188-8C58-8487F4585C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C22439-4447-4188-8C58-8487F4585C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
